@@ -1,0 +1,1 @@
+arm-none-eabi-gdb build/F103_TEST.elf -x gdb_init

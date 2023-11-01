@@ -1,0 +1,1 @@
+JLinkGDBServer -select USB -device STM32F103C8 -endian little -if SWD -speed auto -noir -noLocalhostOnly -nologtofile -port 2331
